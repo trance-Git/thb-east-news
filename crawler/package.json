@@ -1,0 +1,9 @@
+{
+  "name": "thb-east-news-crawler",
+  "private": true,
+  "type": "module",
+  "description": "東分局新聞稿爬蟲（GitHub Actions 排程執行，用 runner 內建的 Chrome）",
+  "dependencies": {
+    "puppeteer-core": "23.11.1"
+  }
+}
